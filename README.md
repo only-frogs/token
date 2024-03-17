@@ -6,11 +6,11 @@ Welcome to Gold Digger, where frog enthusiasts unite for unforgettable frog-them
 
 Gold Digger Token is a Solana, SPL 2022 Standard Token
 
-**Tokenomics**
+## Tokenomics
 
-Gold Digger Token ($GLDD) is a fungible token built on the Solana blockchain, designed specifically for meme enthusiasts and creators. As the native token of the Gold Digger platform´s and dApps, $GLDD plays a central role in incentivizing community engagement, fostering platform development, and driving long-term sustainability.
+Gold Digger Token ($GLDD) is a fungible token built on the Solana blockchain, designed specifically for meme enthusiasts and creators. As the native token of the Gold Digger platform and dApps, $GLDD plays a central role in incentivizing community engagement, fostering platform development, and driving long-term sustainability.
 
-**Gold Digger ($GLDD) Token Details:**
+### Details:
 
 **Token Name:** Gold Digger
 
