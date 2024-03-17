@@ -34,7 +34,7 @@ Gold Digger Token ($GLDD) is a fungible token built on the Solana blockchain, de
 - **Testnet:**
 - **Mainnet:**
 
-## Features:
+## Project Overview and dApp Features:
 
 - Explore Froggy Date Adventures: Are you ready to hop into the world of frog-themed romance? With Gold Digger, our innovative dating application, you can discover unique date ideas centered around your shared love for frogs. From exploring frog sanctuaries to embarking on nature trails teeming with amphibian life, Gold Digger helps you plan unforgettable froggy adventures with your match.
 
