@@ -1,0 +1,14 @@
+{
+    "SOLANA_API_URL": "https://api.devnet.solana.com",
+    "TOKEN_NAME": "Gold Digger",
+    "TOKEN_SYMBOL": "GLDD",
+    "DECIMALS": 9,
+    "MAX_SUPPLY": 50000000000,
+    "PUBLIC_ADDRESS": "GLDDP5mvsduP9tjDHB7d49zkXp3AQ3Rmr7tDviA23RAL",  
+    "SECRET_KEY_FILE": "./src/keypairs/secretKey.json",
+    "METADATA_FILE": "./src/metadata/metadata.json",
+    "RETRY_ATTEMPTS": 3,
+    "RETRY_DELAY": 1000,
+    "LOG_FILE": "./app.log"
+}
+  

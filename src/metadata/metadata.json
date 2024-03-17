@@ -1,0 +1,22 @@
+{
+    "name": "Gold Digger",
+    "symbol": "GLDD",
+    "description": "Gold Digger Token ($GLDD) is a fungible token built on the Solana blockchain, designed specifically for meme enthusiasts and creators.",
+    "seller_fee_basis_points": 500,
+    "creators": [],
+    "royalties": [],
+    "uri": "https://opensea.io/https://ipfs.io/ipfs/QmPB8JfsYJ1Buf9pd3BDiHyiFmZBGy1mJ5FyuQHUzX7XaQ?filename=gold-digger.png",
+    "files": [
+      {
+        "uri": "https://opensea.io/",
+        "type": "image/png"
+      }
+    ],
+    "website_uri": "https://golddigger.net",
+    "social_media": {
+      "twitter": "https://twitter.com/gold_digger",
+      "discord": "https://discord.gg/",
+      "telegram": "https://t.me/"
+    }
+  }
+  
